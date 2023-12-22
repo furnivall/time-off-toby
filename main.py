@@ -1,5 +1,5 @@
-bot_token = 'xoxb-4231523563443-6386108488947-SZ6oM5btBAAnxGxKFafluPO0'
-signing_secret = 'c63fae3a7f322b4fa92e921c678afdbf'
+bot_token = ''
+signing_secret = ''
 import os
 # Use the package we installed
 from slack_bolt import App
